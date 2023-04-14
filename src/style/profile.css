@@ -1,0 +1,24 @@
+.userDetails .ant-card  .ant-card-body{
+    display: flex;
+}
+.userSection{
+    flex: 1;
+}
+.userProfileSection{
+    flex: 2;
+}
+.userDetails .ant-card {
+    background-color: lightgray;
+}
+.inLineFields {
+    display: flex;
+    gap: 20px;
+}
+.sameLine{
+    flex: 1;
+}
+.inputNote {
+    font-size: 12px;
+    margin-top: -25px;
+    margin-bottom: 25px;
+}
